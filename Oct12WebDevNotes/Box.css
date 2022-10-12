@@ -1,0 +1,9 @@
+.box{
+    width: 300px;
+    height: 300px;
+    background: lightcoral;
+    margin: 1rem;
+    border-radius: 5px;
+    box-shadow: 5px 10px lightgray;
+}
+/*It took about 10 minutes to finish task #2. Changing the border radius went well, but getting the shadow to match took longer than expected.*/
